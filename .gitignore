@@ -1,1 +1,10 @@
 env/
+db.sqlite3
+myapp/__pycache__/
+myapp/__init__.py
+myapp/migrations/__init__.py
+myapp/migrations/__pycache__/
+users/__pycache__/
+users/__init__.py
+users/migrations/__init__.py
+users/migrations/__pycache__/
